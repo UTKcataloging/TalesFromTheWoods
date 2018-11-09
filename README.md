@@ -1,5 +1,5 @@
 # TalesFromTheWoods
-Metadata (1 file) for Tales from the Wood Collection
+Metadata (1 file) for Tales from the Woods Collection
 
 ## Repository Structure
 
